@@ -1,1 +1,1 @@
-from .fpybattery import get_winsys_specs
+from .battery import get_winsys_specs
