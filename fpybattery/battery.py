@@ -1,5 +1,5 @@
 """
-core.py
+battery.py
 
 This module contains core functionalities for ferd_batterpy module.
 ferd_batterpy is Ferd's battery of python functions for data science projects.
