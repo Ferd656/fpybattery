@@ -4,7 +4,7 @@ setup(
     name="fpybattery", 
     version="0.1.0",
     packages=find_packages(),
-    install_requires=['torch', 'subprocess', 'nvidia-ml-py3'],
+    install_requires=['torch', 'nvidia-ml-py3'],
     author="Ferd",
     author_email="ferd656@gmail.com",
     description="Ferd's battery of python functions for data science projects",
